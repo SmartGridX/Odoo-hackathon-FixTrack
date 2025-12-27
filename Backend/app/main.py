@@ -12,7 +12,7 @@ app.include_router(equipment.router, prefix="/api/equipment", tags=["Equipment"]
 app.include_router(teams.router, prefix="/api/maintenance-teams", tags=["Teams"])
 app.include_router(
     maintenance_requests.router,
-    prefix="/api/maintenance-requests",
+    prefix="/api/maintenance-request",
     tags=["Maintenance Requests"]
 )
 
