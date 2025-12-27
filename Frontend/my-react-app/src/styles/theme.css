@@ -1,0 +1,24 @@
+:root {
+    /* COLORS */
+    --bg-main: #0e0f13;
+    --bg-surface: #0b0d12;
+    --bg-hover: #111827;
+
+    --border-subtle: #1f2937;
+
+    --text-primary: #e5e7eb;
+    --text-muted: #9ca3af;
+
+    --red: #ef4444;
+    --blue: #3b82f6;
+    --green: #22c55e;
+
+    /* SPACING */
+    --space-sm: 8px;
+    --space-md: 16px;
+    --space-lg: 24px;
+
+    /* RADIUS */
+    --radius-sm: 6px;
+    --radius-md: 12px;
+}

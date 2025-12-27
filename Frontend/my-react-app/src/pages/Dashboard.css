@@ -1,0 +1,11 @@
+.dashboard-page {
+    padding: 16px;
+    background: #1b1e23;
+    min-height: 100vh;
+}
+
+.dashboard-shell {
+    background: #2a2e35;
+    border-radius: 8px;
+    padding: 12px;
+}

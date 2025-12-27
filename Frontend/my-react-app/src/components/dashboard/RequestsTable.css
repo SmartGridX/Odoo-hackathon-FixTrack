@@ -1,0 +1,33 @@
+.requests-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 10px;
+    background: #2a2e35;
+    border-radius: 6px;
+    overflow: hidden;
+    font-size: 12px;
+}
+
+.requests-table thead {
+    background: #343a40;
+}
+
+.requests-table th {
+    padding: 6px 10px;
+    text-align: left;
+    color: #cfd3da;
+    font-weight: 500;
+}
+
+.requests-table td {
+    padding: 6px 10px;
+    color: #e5e7eb;
+}
+
+.requests-table tbody tr {
+    border-top: 1px solid #3a3f46;
+}
+
+.requests-table tbody tr:hover {
+    background: #3a3f46;
+}

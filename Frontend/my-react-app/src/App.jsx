@@ -1,9 +1,8 @@
-
-import { Auth } from './pages/Auth';
-import './styles/App.css';
+// src/App.jsx
+import Dashboard from "./pages/Dashboard";
 
 function App() {
-  return <Auth />;
+  return <Dashboard />;
 }
 
 export default App;

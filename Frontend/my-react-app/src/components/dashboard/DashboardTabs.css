@@ -1,0 +1,20 @@
+.dashboard-tabs {
+    display: flex;
+    gap: 16px;
+    padding: 6px 10px;
+    border-bottom: 1px solid #3a3f46;
+    margin-bottom: 10px;
+}
+
+.tab-btn {
+    background: none;
+    border: none;
+    color: #cfd3da;
+    font-size: 13px;
+    padding: 4px 6px;
+    cursor: pointer;
+}
+
+.tab-btn:hover {
+    color: #ffffff;
+}

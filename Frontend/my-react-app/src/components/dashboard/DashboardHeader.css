@@ -1,0 +1,22 @@
+.dashboard-header {
+    display: flex;
+    gap: var(--space-md);
+    margin-bottom: var(--space-lg);
+}
+
+.new-btn {
+    background: var(--bg-surface);
+    border: 1px solid var(--border-subtle);
+    color: white;
+    padding: var(--space-sm) var(--space-md);
+    border-radius: var(--radius-sm);
+}
+
+.search-input {
+    flex: 1;
+    background: var(--bg-hover);
+    border: 1px solid var(--border-subtle);
+    border-radius: var(--radius-sm);
+    padding: var(--space-sm);
+    color: white;
+}
