@@ -1,7 +1,7 @@
 # Odoo-hackathon
 # 🚧 ProCMMS360 — Intelligent Maintenance Management System
 
-FixSphere is a modern, full-stack **Computerized Maintenance Management System (CMMS)** designed to help organizations efficiently track equipment, manage maintenance teams, and coordinate repair workflows in a structured and scalable way. :contentReference[oaicite:1]{index=1}
+ProCMMS360 is a modern, full-stack **Computerized Maintenance Management System (CMMS)** designed to help organizations efficiently track equipment, manage maintenance teams, and coordinate repair workflows in a structured and scalable way. :contentReference[oaicite:1]{index=1}
 
 This project was initially started during a hackathon and aims to streamline asset management and maintenance operations for teams of all sizes.
 
